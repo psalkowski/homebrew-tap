@@ -1,6 +1,6 @@
 cask "claude-pulse" do
-  version "0.5.1"
-  sha256 "bd576572d0bdc6b510e0b777517461f780812abdd4c2c92269612ebd2cedc871"
+  version "0.5.2"
+  sha256 "e00770ba990627a0d1c3f7197c8aa00024206debd720e466dcbbf24d43f388e1"
 
   url "https://github.com/psalkowski/claude-pulse/releases/download/v#{version}/ClaudePulse-#{version}.dmg",
       verified: "github.com/psalkowski/claude-pulse/"
